@@ -51,3 +51,9 @@ música de fondo de Loquendo.
 `curl -X POST -F "texto=Hola culeros, les saluda el anticristo. hoy les traigo una crítica a los pinches otakus" -F "voz=Juan" https://loquendo.zsh.jp/generar | aplay`
 
 `echo "Hola amigos de youtube, hoy les enseñaré a descargar g t a san andreas para pecé" | lokendo  --voz=Carlos | aplay`
+
+## Donar
+
+- BTC: bc1q7nceq4w50eswm5h0j773dqufqa9t5pvqqnxfq9
+- LTC: ltc1qz2ga5rnwjy8ju423axnt3vqnnhvedmw8fep8za
+- XMR: 87HRPcEEnpbBL4eFCThj6zPrLvFmducfy3NrWWFYAsekabS5esm8eMTHzhCtZAQUiteFbP9ABhGmDXY6UqNcD8MT32kJSkg
